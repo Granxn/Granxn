@@ -1,13 +1,8 @@
 👋 Hi, I'm Jeeranan Sena
 
-<p align="left">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/jeeranunsena" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dflat%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge">
-</a>
-<a href="mailto:granxn1234@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dflat%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge">
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jeeranun-sena/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:granxn1234@gmail.com)
+
 
 3rd-year AI Engineering and Data Science student passionate about transforming raw data into meaningful insights. Skilled in Python, SQL, and Power BI, with hands-on experience in cleaning, analyzing, and visualizing datasets. Seeking an internship opportunity to apply analytical and problem-solving skills in a real-world business context.
 
