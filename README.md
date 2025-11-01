@@ -28,7 +28,8 @@ Communicated these "Data Limitation" red flags via dashboard annotations (⚠️
 
 Tools: Python (Pandas), Power BI (DAX, Power Query), SQL, Git
 
-Granxn/superstore-analytics: End-to-end sales analytics project using Python, SQL, and Power BI.
+[![Superstore Analytics](https://img.shields.io/badge/Superstore_Analytics-Repository-blue?logo=github&logoColor=white)](https://github.com/Granxn/superstore-analytics)
+
 
 Book Sales Data Cleaning & KPI Analysis
 
