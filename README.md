@@ -41,36 +41,43 @@ Built SQL-based KPI reports (e.g., Total Revenue: ฿45K, Top Genre: Comic ฿19
 
 Tools: Python (Pandas), SQL, MySQL, Google Colab
 
-🛠️ Tech Stack
+**Languages:**  
 
-Category
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 
-Skills
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=mysql&logoColor=white)
 
-Languages
+**Data Manipulation:**  
 
-Python, SQL
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) 
 
-Data Manipulation
+![Power Query](https://img.shields.io/badge/Power%20Query-4B4B4B?logo=powerbi&logoColor=yellow)
 
-pandas, Power Query
+**Data Visualization:**  
 
-Data Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 
-Power BI, matplotlib, seaborn
+![matplotlib](https://img.shields.io/badge/matplotlib-007ACC?logo=python&logoColor=white)
 
-Databases
+![seaborn](https://img.shields.io/badge/seaborn-76B900?logo=python&logoColor=white)
 
-MySQL
+**Databases:**  
 
-Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-Git, Google Colab, VS Code
+**Developer Tools:**  
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 🏅 Certifications
 
-EF SET English Certificate (C1 Advanced) - EF Education First (Score 62/100)
+[![EF SET Certificate](https://img.shields.io/badge/EF%20SET-C1%20Advanced-blue?logo=openbadges&logoColor=white)](https://cert.efset.org/kReUmr)
 
-AI for All - Mahidol University (CBTU)
+[![AI for All - Mahidol University](https://img.shields.io/badge/AI%20for%20All-Mahidol%20University-blue?logo=certificate&logoColor=white)](https://cbtumu.net/tutor-certificate/?cert_hash=40578b228bbe527a)
 
-Basic Prompt Engineering - Mahidol University (CBTU)
+[![Basic Prompt Engineering - Mahidol University](https://img.shields.io/badge/Basic%20Prompt%20Eng-Mahidol%20University-blue?logo=certificate&logoColor=white)](https://cbtumu.net/tutor-certificate/?cert_hash=f4d9d8b6477d79c1)
+
