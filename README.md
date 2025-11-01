@@ -28,7 +28,7 @@ Communicated these "Data Limitation" red flags via dashboard annotations (⚠️
 
 Tools: Python (Pandas), Power BI (DAX, Power Query), SQL, Git
 
-➡️ Link to Superstore Repository
+Granxn/superstore-analytics: End-to-end sales analytics project using Python, SQL, and Power BI.
 
 Book Sales Data Cleaning & KPI Analysis
 
@@ -73,9 +73,3 @@ EF SET English Certificate (C1 Advanced) - EF Education First (Score 62/100)
 AI for All - Mahidol University (CBTU)
 
 Basic Prompt Engineering - Mahidol University (CBTU)
-
-🌐 Connect
-
-📧 Email: granxn1234@gmail.com
-
-💼 LinkedIn: linkedin.com/in/jeeranunsena
