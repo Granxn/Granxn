@@ -41,37 +41,16 @@ Built SQL-based KPI reports (e.g., Total Revenue: ฿45K, Top Genre: Comic ฿19
 
 Tools: Python (Pandas), SQL, MySQL, Google Colab
 
-**Languages:**  
+🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+| Category            | Skills & Tools                         |
+|---------------------|----------------------------------------|
+| Languages           | Python, SQL                            |
+| Data Manipulation   | pandas, Power Query                    |
+| Data Visualization  | Power BI, matplotlib, seaborn          |
+| Databases           | MySQL                                  |
+| Developer Tools     | Git, Google Colab, VS Code             |
 
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=mysql&logoColor=white)
-
-**Data Manipulation:**  
-
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) 
-
-![Power Query](https://img.shields.io/badge/Power%20Query-4B4B4B?logo=powerbi&logoColor=yellow)
-
-**Data Visualization:**  
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-
-![matplotlib](https://img.shields.io/badge/matplotlib-007ACC?logo=python&logoColor=white)
-
-![seaborn](https://img.shields.io/badge/seaborn-76B900?logo=python&logoColor=white)
-
-**Databases:**  
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-**Developer Tools:**  
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 🏅 Certifications
 
